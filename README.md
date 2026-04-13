@@ -155,4 +155,4 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 👤 Credits
 
-Built with [huashu-nuwa](https://github.com/...) 女娲造人Skill framework.
+Built with [huashu-nuwa](https://github.com/alchaincyf/nuwa-skill) 女娲造人Skill framework.
